@@ -18,3 +18,7 @@ end
 describe command("ls #{nginx_sites_enabled_path}") do
   its(:stdout) { should eq "" }
 end
+
+describe group('jack_cool') do
+  it { should exist }
+end
