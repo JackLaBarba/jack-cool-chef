@@ -7,6 +7,9 @@ provisioner:
 
 platforms:
   - name: ubuntu-14.04
+    driver:
+      network:
+        - ["private_network", {ip: "192.168.33.38"}]
 
 suites:
   - name: default
