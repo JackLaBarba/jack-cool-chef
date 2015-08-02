@@ -1,0 +1,10 @@
+{
+  "id": "jlabarba",
+  "groups": [
+    "jack_cool",
+    "sysadmin"
+  ],
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDmdBZgm/n4gg7S00NseJBJtZH688Q6MFLjHV/SI6bm75FL4q5vdvTw96o4rIYz01Lhb3vBM0YkM5fiwrFHLQpbJe0YJnet6hoOvXw7fUy1Y1Bygdp4kGVyVErc2ZdpzwMIobE9IJHGb6cjBPKqTIMZ1Qvuk9hOXvHnq8n8JOjJHPoDvazs7C9rqpk22rZNY7jvkCnPSqaZvYIw+efdFR3WOMkWU8qiNMxmy8kHVhJ4ZJR7PQiMV926FsRo8d0BaYdmQ392Nb3xgWEafIRmHpzEPbk5CPYLJxmuj97OY5qqyhFVh5+02DC0nUz8NmURgLQSgGwtIKgdzJ66cGbnNnBOWbf34XIuQ7/UGPORWnXodeE9enwAVW8/DaDZGUD/tC9kvrpDyUH/GNIaPjZEqBGhFwGINeARuZ6bBHtRTces6tejX+8HjIUDPJ2td8KTGwfHdL5jDshDvKydyhyLzWrSSEqYHaXPmgmbnSannPOp3+q+YLMHBolgn1OMkmi3fLNzkEOX4VEJ7u75MTYS/1HNS5BRPJ6TnLVdjIXdQDfrn135oZwvbzmJrJuVaFl7F/7ukQytnC/aeSPxkeVKKgZuvIiO3cx4ZmBg7G6PZWNWdbvGOHiks6JUKEltdrBVSdQ7VgfDPM8LlAwk7Fv1NYFPWbA7510NNIAbgCrECjRWqQ== brakit@gmail.com"
+  ]
+}
