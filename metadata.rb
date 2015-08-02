@@ -1,0 +1,7 @@
+name             'jack_cool'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures jack_cool'
+long_description 'Installs/Configures jack_cool'
+version          '0.1.0'
