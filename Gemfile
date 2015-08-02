@@ -4,5 +4,5 @@ gem 'berkshelf'
 
 group :development do
   gem "test-kitchen"
+  gem "kitchen-vagrant"
 end
-gem "kitchen-vagrant"
