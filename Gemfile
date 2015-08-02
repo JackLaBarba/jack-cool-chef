@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'berkshelf'
+gem 'knife-zero'
 
 group :development do
   gem "test-kitchen"
