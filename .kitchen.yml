@@ -11,4 +11,5 @@ platforms:
 suites:
   - name: default
     run_list:
+      - recipe[jack_cool::web_app]
     attributes:

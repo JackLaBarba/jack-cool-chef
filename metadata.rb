@@ -5,3 +5,6 @@ license          'All rights reserved'
 description      'Installs/Configures jack_cool'
 long_description 'Installs/Configures jack_cool'
 version          '0.1.0'
+
+depends 'apt'
+depends 'nginx'
