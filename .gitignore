@@ -16,3 +16,9 @@ Gemfile.lock
 bin/*
 .bundle/*
 
+# Kitchen
+.kitchen/
+.kitchen.local.yml
+
+# Rubymine
+.idea/
