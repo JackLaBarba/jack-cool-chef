@@ -19,6 +19,16 @@ describe command("ls #{nginx_sites_enabled_path}") do
   its(:stdout) { should eq "" }
 end
 
-describe group('jack_cool') do
+jlabarba_groups = ["jack_cool", "sysadmin"]
+jlabarba_groups.each do |group_name|
+  describe group(group_name) do
+    it { should exist}
+  end
+end
+
+describe user("jlabarba") do
   it { should exist }
+  jlabarba_groups.each do |group_name|
+    it { should belong_to_group(group_name)}
+  end
 end
